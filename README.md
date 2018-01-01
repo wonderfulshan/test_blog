@@ -1,3 +1,5 @@
+> vue-cli搭建项目，用vue-resource请求数据并对响应做处理，从JSONPlaceHolder获取数据，没有连接数据库。
+
 # my_blog
 
 > A Vue.js project
